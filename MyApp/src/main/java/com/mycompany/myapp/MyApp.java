@@ -15,6 +15,7 @@ public class MyApp {
         System.out.println("Hello World 22!");
         int a = 10;
         int b = 5;
+        if(a>0&&b>0)
         System.out.println("Ket qua la: " + (a + b));
     }
 }
