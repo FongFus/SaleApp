@@ -15,8 +15,14 @@ public class MyApp {
         System.out.println("Hello World 22!");
         int a = 10;
         int b = 5;
+<<<<<<< HEAD
         if(a>0)
         System.out.println("Ket qua la: " + (a + b));
         System.out.println("DONE");
+=======
+        if (a > 0 && b > 0) {
+            System.out.println("Ket qua la: " + (a + b));
+        }
+>>>>>>> 6ce2bceae9cf6b7ae95f6fad2581635025d86041
     }
 }
